@@ -2,8 +2,8 @@
 rule Unknown_Malware {
     meta:
         description = "Yara rules for Unknown Malware"
-        md5 = "6147b3df04d5d93d9186f3ede6e74b71"
-        sha1 = "28781551d4b8fc8700672fe2320945b56155aff2"
+        md5 = "3908C840C08D7621762262F2B734DB05"
+        sha1 = "93D245826066B3EB4D2CB68F554FAC615FFCB8A4"
         filename = "Unknown_Malware.exe"
         author = "Joud Hannoun and Maryam Nassar"
     strings:
